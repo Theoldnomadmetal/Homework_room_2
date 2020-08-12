@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework_room_2</string>
+    <string name="registration">Привет!</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="repeat_pass">Повторите пароль</string>
+    <string name="btn_enter">Регистрация</string>
+    <string name="tv_list">Список Логинов:</string>
+</resources>
